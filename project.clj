@@ -1,4 +1,4 @@
-(defproject clojurecademy "0.1.0-SNAPSHOT"
+(defproject clojurecademy "0.1.0"
 
   :description "Clojurecademy DSL"
 
