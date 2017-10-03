@@ -6,8 +6,8 @@
 
   :author "Ertuğrul Çetin"
 
-  :license {:name "Apache License"
-            :url "http://www.apache.org/licenses/LICENSE-2.0"}
+  :license {:name "MIT License"
+            :url "https://opensource.org/licenses/MIT"}
 
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [kezban "0.1.7"]
